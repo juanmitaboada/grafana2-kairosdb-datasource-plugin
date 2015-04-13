@@ -25,4 +25,4 @@ License
 
 Copyright &copy; 2015 Juan Miguel Taboada Godoy.
 
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+APACHE LICENSE Version 2.0, January 2004
