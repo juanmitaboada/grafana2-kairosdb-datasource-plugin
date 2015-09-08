@@ -1,3 +1,5 @@
+**NOTE:** This is deprecated as Grafana now supports KairosDB out of the box. The project will be kept for a while and will disappear later.
+
 ===================================
 grafana2-kairosdb-datasource-plugin
 ===================================
